@@ -1,4 +1,3 @@
-awnet-async
-===========
+# Project Description
 
-ActiveWorlds SDK .NET Wrapper - Asynchronous Provider
+Asynchronous Operation Provider for ActiveWorlds SDK Callbacks in .NET
